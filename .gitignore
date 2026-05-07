@@ -1,0 +1,4 @@
+.env
+.venv/
+debug-d07fb5.log
+__pycache__/
